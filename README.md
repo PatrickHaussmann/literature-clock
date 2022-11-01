@@ -1,13 +1,4 @@
 # literature-clock
-Clock using time quotes from the literature, based on work and idea by
-        [Jaap Meijers](http://www.eerlijkemedia.nl/) ([E-reader clock](https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/)).
-        
-The working site is in the docs/ folder, and can be visited at http://literature-clock.jenevoldsen.com/. To run it locally you may need to serve docs/ with an HTTP server (e.g. `python3 -m http.server`) ... or just open index.html in Firefox (thanks [@gbear605](https://github.com/gbear605)).
+Clock using time quotes from the literature
 
-> ℹ️ NB: Some quotes are potentially NSFW. See issue [#11](https://github.com/JohannesNE/literature-clock/issues/11).
-> To filter out (most) NSFW quotes, use the `sfw` query parameter. E.g. https://literature-clock.jenevoldsen.com?sfw=true
-> 
-
-## Other related projects
-
-- **[litime](https://github.com/ikornaselur/litime)** - A command line tool that shows a timely quote when it is executed.
+This is a fork of [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock)
